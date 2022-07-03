@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar renders 1`] = `
+<nav
+  className="navbar"
+>
+  <i
+    className="navbar-logo fas fa-leaf"
+  />
+  <span>
+    Habit Tracker
+  </span>
+  <span
+    className="navbar-count"
+  />
+</nav>
+`;
