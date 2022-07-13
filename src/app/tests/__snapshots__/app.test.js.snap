@@ -33,7 +33,7 @@ Array [
       <button
         className="add-button"
       >
-        Add2
+        Add
       </button>
     </form>
     <ul>

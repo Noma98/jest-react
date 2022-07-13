@@ -11,7 +11,7 @@ const habitPresenter = new HabitPresenter(
     { id: 2, name: "Running", count: 0 },
     { id: 3, name: "Coding", count: 0 },
   ],
-  3
+  5
 );
 ReactDOM.render(
   <React.StrictMode>
